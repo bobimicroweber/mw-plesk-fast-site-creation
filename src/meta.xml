@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <module>
-    <id>MWFastSiteCreation</id>
-    <name>MWFastSiteCreation</name>
-    <description>Plesk extension for microweber fast site creation</description>
-    <category>websites</category>
+    <id>skeleton</id>
+    <name>Skeleton</name>
+    <description>Plesk extension skeleton</description>
+    <category>example</category>
     <version>1.0.0</version>
     <release>1</release>
     <vendor>Plesk</vendor>
